@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![project](C:\Users\User\Desktop\kodluyoruzHw.png)
+![dog](https://picsum.photos/id/237/200/300)
